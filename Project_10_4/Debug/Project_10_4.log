@@ -1,0 +1,5 @@
+﻿  function.cpp
+  main.cpp
+  正在生成代码...
+C:\Users\ybq\Desktop\yao\c++\Project_10_4\function.cpp(91): warning C4715: “find_hero_by_age”: 不是所有的控件路径都返回值
+  Project_10_4.vcxproj -> C:\Users\ybq\Desktop\yao\c++\Project_10_4\Debug\Project_10_4.exe

@@ -1,0 +1,6 @@
+﻿  玫瑰花.cpp
+C:\Users\ybq\Desktop\yao\c++\Project_10_7\玫瑰花.cpp(130,10): warning C4101: “b”: 未引用的局部变量
+C:\Users\ybq\Desktop\yao\c++\Project_10_7\玫瑰花.cpp(130,19): warning C4101: “rgb”: 未引用的局部变量
+C:\Users\ybq\Desktop\yao\c++\Project_10_7\玫瑰花.cpp(130,13): warning C4101: “g”: 未引用的局部变量
+C:\Users\ybq\Desktop\yao\c++\Project_10_7\玫瑰花.cpp(130,16): warning C4101: “r”: 未引用的局部变量
+  Project_10_7.vcxproj -> C:\Users\ybq\Desktop\yao\c++\Project_10_7\x64\Debug\Project_10_7.exe
